@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Ohio Landscaping & Lawn Care LLC",
+    "phone": "+16149899775",
+    "category": "hardscaping contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus Hardscaping Experts",
+      "heroSubline": "Transforming outdoor spaces across Central Ohio. Expert hardscaping solutions built to last.",
+      "aboutTitle": "Crafting Outdoor Living Spaces in Columbus",
+      "aboutText": [
+        "Ohio Landscaping & Lawn Care LLC started with a simple goal: to provide Columbus homeowners with exceptional hardscaping services. We saw a need for reliable contractors who understood the unique challenges of the Ohio climate and could deliver lasting results.",
+        "Our approach is built on meticulous planning, skilled craftsmanship, and open communication. We believe in doing the job right the first time, using quality materials and proven techniques to ensure your outdoor space looks beautiful for years to come. We take the time to understand your vision and bring it to life with precision and care.",
+        "We're proud to be a local business, committed to serving our community. We actively support local initiatives and strive to create outdoor spaces that enhance the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Years of experience tackling Columbus's unique climate and soil conditions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, weather-resistant materials built to withstand Ohio winters."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored hardscaping solutions that match your home's style and your personal taste."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a commitment to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Yard?",
+      "ctaSubline": "Contact us today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "patios",
+        "name": "Patio Installation",
+        "shortDescription": "Custom-designed patios that enhance your outdoor living space.",
+        "description": "We specialize in designing and installing patios that perfectly complement your Columbus home. From classic brick patios that evoke the charm of German Village to modern paver patios that create a sleek, contemporary look, we can bring your vision to life. We consider the unique challenges of Columbus's climate, selecting materials that can withstand freeze-thaw cycles and prevent cracking. Our patio installation process includes careful site preparation, proper drainage to prevent water damage, and expert craftsmanship to ensure a level and durable surface. We handle all aspects of the project, from initial design to final cleanup, ensuring a seamless and stress-free experience. We can also incorporate features such as fire pits, outdoor kitchens, and seating areas to create a truly functional and inviting outdoor space. Whether you're looking for a small, intimate patio or a large entertainment area, we have the expertise and experience to deliver exceptional results. We work with a variety of materials, including pavers, brick, natural stone, and concrete, and we can help you choose the best option for your budget and style. Our patios are built to last, adding value and enjoyment to your home for years to come.",
+        "process": [
+          "Step 1: Design consultation to determine your needs and preferences.",
+          "Step 2: Site preparation, including excavation and grading.",
+          "Step 3: Installation of base materials for proper drainage and stability.",
+          "Step 4: Paver or stone installation with precise cuts and alignment."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced outdoor living space",
+          "Durable and long-lasting",
+          "Customizable design options"
+        ],
+        "faq": [
+          {
+            "question": "What type of base is used under a paver patio?",
+            "answer": "We use a compacted gravel base, typically 4-6 inches thick, to provide a stable and well-draining foundation for your patio."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The installation time depends on the size and complexity of the project, but most patios can be completed within 1-2 weeks."
+          },
+          {
+            "question": "Do I need a permit for a patio installation?",
+            "answer": "Depending on the size and location of your patio, a permit may be required. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Functional and beautiful retaining walls to stabilize your landscape.",
+        "description": "Retaining walls are essential for managing slopes and preventing erosion in Columbus's varied terrain. We design and build retaining walls that are both functional and aesthetically pleasing, using materials that complement your home's style. Our retaining walls are engineered to withstand the pressure of the soil and prevent water damage, ensuring long-term stability. We handle all aspects of the project, from initial design and site preparation to final construction and landscaping. We work with a variety of materials, including concrete blocks, natural stone, and timber, and we can help you choose the best option for your needs and budget. Whether you need a retaining wall to prevent soil erosion, create a level patio area, or add visual interest to your landscape, we have the expertise to deliver exceptional results. We understand the importance of proper drainage and soil compaction, and we take meticulous care to ensure that your retaining wall is built to last. Our goal is to provide you with a retaining wall that not only solves your landscaping challenges but also enhances the beauty and value of your property. We are familiar with Columbus's building codes and regulations, ensuring that your retaining wall is built in compliance with all applicable standards.",
+        "process": [
+          "Step 1: Site assessment and soil analysis.",
+          "Step 2: Design and engineering of the retaining wall.",
+          "Step 3: Excavation and foundation preparation.",
+          "Step 4: Wall construction with proper drainage and backfilling."
+        ],
+        "benefits": [
+          "Erosion control",
+          "Slope stabilization",
+          "Increased property value",
+          "Improved landscape aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "What type of drainage is required behind a retaining wall?",
+            "answer": "We typically install a perforated drain pipe behind the wall, surrounded by gravel, to collect and redirect water away from the soil."
+          },
+          {
+            "question": "How tall can a retaining wall be without a permit?",
+            "answer": "The height limit for retaining walls without a permit varies by municipality in Columbus. We can advise you on the specific requirements for your property."
+          },
+          {
+            "question": "What is the lifespan of a properly built retaining wall?",
+            "answer": "A properly built retaining wall can last for 50 years or more with minimal maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "driveways",
+        "name": "Driveway Installation & Repair",
+        "shortDescription": "Durable and attractive driveways that enhance your curb appeal.",
+        "description": "Your driveway is one of the first things people see when they arrive at your home. We offer driveway installation and repair services that will enhance your curb appeal and provide a durable, long-lasting surface. We understand the importance of proper drainage and base preparation to prevent cracking and settling, especially with Columbus's freeze-thaw cycles. We offer a variety of materials, including concrete, asphalt, and pavers, and we can help you choose the best option for your budget and style. Whether you need a new driveway installed or your existing driveway repaired, we have the expertise to deliver exceptional results. Our driveway installation process includes careful site preparation, proper compaction, and expert paving to ensure a smooth and level surface. We also offer driveway sealing services to protect your driveway from the elements and extend its lifespan. Our repair services include crack filling, patching, and resurfacing. We are committed to providing you with a driveway that is both functional and aesthetically pleasing, adding value and curb appeal to your home. We comply with all Columbus building codes and regulations, ensuring that your driveway is built to the highest standards.",
+        "process": [
+          "Step 1: Excavation and removal of existing driveway (if applicable).",
+          "Step 2: Installation of a compacted gravel base.",
+          "Step 3: Pouring and leveling of concrete or asphalt.",
+          "Step 4: Sealing and finishing to protect the surface."
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Improved property value",
+          "Durable and long-lasting",
+          "Reduced maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take for a new concrete driveway to cure?",
+            "answer": "A new concrete driveway typically takes 7-10 days to fully cure before it can be driven on."
+          },
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "Asphalt driveways should be sealed every 2-3 years to protect them from the elements and prevent cracking."
+          },
+          {
+            "question": "What is the best way to prevent cracks in my driveway?",
+            "answer": "Proper drainage, a solid base, and regular sealing are the best ways to prevent cracks in your driveway."
+          }
+        ]
+      },
+      {
+        "slug": "walkways",
+        "name": "Walkway Installation",
+        "shortDescription": "Safe and stylish walkways that guide you through your landscape.",
+        "description": "Enhance the beauty and functionality of your property with custom-designed walkways. We specialize in walkway installation using a variety of materials, including pavers, brick, natural stone, and concrete. We consider the architectural style of your home and the surrounding landscape to create walkways that are both aesthetically pleasing and safe to navigate. Our walkway installation process includes careful site preparation, proper drainage to prevent water damage, and expert craftsmanship to ensure a level and durable surface. We can also incorporate lighting to enhance safety and create a welcoming ambiance. Whether you need a walkway to connect your driveway to your front door, a path through your garden, or a patio connector, we have the expertise to deliver exceptional results. We are familiar with Columbus's building codes and regulations, ensuring that your walkway is built in compliance with all applicable standards. We are committed to providing you with walkways that are both beautiful and functional, adding value and enjoyment to your home for years to come. We understand the importance of proper grading and slope to ensure that water drains away from your home's foundation, preventing water damage.",
+        "process": [
+          "Step 1: Design consultation to determine the best layout and materials.",
+          "Step 2: Site preparation, including excavation and grading.",
+          "Step 3: Installation of base materials for proper drainage.",
+          "Step 4: Paver or stone installation with precise alignment."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Enhanced safety",
+          "Increased property value",
+          "Customizable design options"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a walkway in Columbus?",
+            "answer": "Pavers and natural stone are popular choices for walkways in Columbus due to their durability and aesthetic appeal."
+          },
+          {
+            "question": "How wide should a walkway be?",
+            "answer": "A walkway should be at least 3 feet wide to allow two people to walk comfortably side by side."
+          },
+          {
+            "question": "Do I need to seal my paver walkway?",
+            "answer": "Sealing your paver walkway can help protect it from stains and fading and extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Custom outdoor kitchens for ultimate entertaining.",
+        "description": "Take your outdoor entertaining to the next level with a custom-designed outdoor kitchen. We specialize in designing and building outdoor kitchens that are both functional and stylish, creating a space where you can cook, dine, and relax with family and friends. We work with you to create a design that fits your needs and budget, incorporating features such as grills, cooktops, refrigerators, sinks, and storage cabinets. Our outdoor kitchens are built with durable, weather-resistant materials that can withstand the elements, ensuring long-term performance. We handle all aspects of the project, from initial design and site preparation to final installation and finishing. We are familiar with Columbus's building codes and regulations, ensuring that your outdoor kitchen is built in compliance with all applicable standards. We are committed to providing you with an outdoor kitchen that is both beautiful and functional, adding value and enjoyment to your home for years to come. Whether you're looking for a simple grill station or a fully equipped outdoor kitchen, we have the expertise to deliver exceptional results. We understand the importance of proper ventilation and electrical wiring, and we take meticulous care to ensure that your outdoor kitchen is safe and functional.",
+        "process": [
+          "Step 1: Design consultation to determine your needs and preferences.",
+          "Step 2: Site preparation, including excavation and utility connections.",
+          "Step 3: Construction of the kitchen frame and countertops.",
+          "Step 4: Installation of appliances and finishing touches."
+        ],
+        "benefits": [
+          "Enhanced outdoor entertaining",
+          "Increased home value",
+          "Convenient cooking space",
+          "Customizable design options"
+        ],
+        "faq": [
+          {
+            "question": "What type of countertop is best for an outdoor kitchen?",
+            "answer": "Granite and concrete are popular choices for outdoor kitchen countertops due to their durability and weather resistance."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "A permit may be required for an outdoor kitchen, depending on the size and features of the kitchen. We can assist you with the permit application process."
+          },
+          {
+            "question": "How do I protect my outdoor kitchen during the winter?",
+            "answer": "We recommend covering your outdoor kitchen with a waterproof tarp or cover during the winter to protect it from the elements."
+          }
+        ]
+      },
+      {
+        "slug": "fire-pits",
+        "name": "Fire Pit Installation",
+        "shortDescription": "Cozy fire pits for year-round enjoyment.",
+        "description": "Extend your outdoor season with a custom-built fire pit. We design and install fire pits that create a warm and inviting atmosphere in your backyard. Our fire pits are built with durable, weather-resistant materials that can withstand the elements, ensuring long-term performance. We offer a variety of styles, including wood-burning, gas-burning, and propane-burning fire pits, and we can help you choose the best option for your needs and preferences. Our fire pit installation process includes careful site preparation, proper ventilation, and expert craftsmanship to ensure a safe and enjoyable experience. We can also incorporate seating areas and landscaping to create a complete outdoor living space. Whether you're looking for a simple fire pit for roasting marshmallows or a grand fire pit for entertaining guests, we have the expertise to deliver exceptional results. We are familiar with Columbus's building codes and regulations, ensuring that your fire pit is built in compliance with all applicable standards. We are committed to providing you with a fire pit that is both beautiful and functional, adding warmth and ambiance to your outdoor space for years to come. We understand the importance of proper safety precautions, and we take meticulous care to ensure that your fire pit is built to the highest safety standards.",
+        "process": [
+          "Step 1: Design consultation to determine the best location and style.",
+          "Step 2: Site preparation, including excavation and leveling.",
+          "Step 3: Construction of the fire pit using durable materials.",
+          "Step 4: Installation of gas lines or propane tanks (if applicable)."
+        ],
+        "benefits": [
+          "Extended outdoor season",
+          "Warm and inviting atmosphere",
+          "Increased property value",
+          "Perfect for entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a fire pit?",
+            "answer": "Natural stone and concrete blocks are popular choices for fire pits due to their durability and heat resistance."
+          },
+          {
+            "question": "Do I need a permit for a fire pit?",
+            "answer": "A permit may be required for a fire pit, depending on the size and location of the fire pit. We can assist you with the permit application process."
+          },
+          {
+            "question": "What safety precautions should I take when using a fire pit?",
+            "answer": "Always keep a fire extinguisher or water hose nearby, never leave a fire unattended, and keep children and pets at a safe distance."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is proud to offer our expert hardscaping services to the residents of Dublin, Ohio. Known for its upscale subdivisions and beautiful homes built primarily in the 1980s through 2000s, Dublin boasts stunning landscapes that deserve the very best in hardscape design and installation. We understand the importance of maintaining and enhancing the curb appeal of your Dublin property. \n\nOur team specializes in creating custom patios, walkways, retaining walls, and outdoor living spaces that complement the architectural style of Dublin homes. We use only the highest quality materials to ensure that your hardscaping project will withstand the test of time, even with the harsh Ohio winters and freeze-thaw cycles that can cause damage. Let Ohio Landscaping & Lawn Care LLC transform your Dublin backyard into an oasis you'll enjoy for years to come.",
+        "localContext": "Dublin, Ohio, is characterized by its upscale residential areas and a strong emphasis on community aesthetics, making quality hardscaping a vital aspect of home improvement.",
+        "nearbyAreas": [
+          "Columbus",
+          "Powell",
+          "Hilliard"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC provides professional hardscaping services to homeowners in Westerville, Ohio. Westerville, with its established suburbs dating back to the 1970s and 80s, features many mature landscapes that can benefit from updated or enhanced hardscaping elements. We understand the unique challenges of working with older properties and can provide solutions that blend seamlessly with the existing landscape.\n\nFrom repairing existing patios and walkways to designing and installing new outdoor living spaces, our team has the expertise to handle any hardscaping project in Westerville. We take into account the cold, snowy winters and freeze-thaw damage common in Ohio, ensuring that our installations are durable and long-lasting. Trust Ohio Landscaping & Lawn Care LLC to enhance your Westerville home with beautiful and functional hardscaping.",
+        "localContext": "Westerville, Ohio, known for its mature neighborhoods and tree-lined streets, benefits from thoughtful hardscaping that complements its established landscape.",
+        "nearbyAreas": [
+          "Columbus",
+          "Galena",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is dedicated to providing top-notch hardscaping services to the residents of Hilliard, Ohio. Hilliard, with its family-friendly subdivisions built primarily in the 1980s and 90s, offers a wonderful environment for creating beautiful and functional outdoor spaces. We understand the importance of designing hardscapes that meet the needs of busy families, providing areas for relaxation, entertainment, and play.\n\nOur team specializes in creating custom patios, walkways, and retaining walls that enhance the beauty and value of your Hilliard home. We use durable materials that can withstand the harsh Ohio winters and freeze-thaw cycles that can cause damage. Let Ohio Landscaping & Lawn Care LLC transform your Hilliard backyard into a space where your family can gather and create lasting memories.",
+        "localContext": "Hilliard, Ohio, with its many family-oriented subdivisions, values outdoor spaces that enhance the quality of life for its residents.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Plain City"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is pleased to offer our hardscaping services to the homeowners of Grove City, Ohio. Grove City, characterized by its affordable homes built primarily in the 1970s and 80s, presents opportunities to enhance the value and appeal of your property with updated and well-designed hardscaping. We understand the importance of providing cost-effective solutions without compromising on quality.\n\nOur team specializes in creating functional and aesthetically pleasing patios, walkways, and retaining walls that complement the style of Grove City homes. We use durable materials that can withstand the cold snowy winters and freeze-thaw damage common in Ohio. Trust Ohio Landscaping & Lawn Care LLC to transform your Grove City property with beautiful and long-lasting hardscaping.",
+        "localContext": "Grove City, Ohio, known for its welcoming community and affordable housing, values hardscaping that adds both beauty and functionality to its homes.",
+        "nearbyAreas": [
+          "Columbus",
+          "Orient",
+          "Urbancrest"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC proudly serves Powell, OH, providing expert hardscaping services to enhance the beauty and value of your home. Powell's upscale neighborhoods deserve the highest quality materials and craftsmanship, and we are committed to delivering exceptional results.\n\nFrom custom patios and walkways to elegant retaining walls and outdoor kitchens, we can transform your outdoor space into a stunning oasis. We understand the climate challenges in Powell, and our hardscaping solutions are designed to withstand the harsh Ohio winters, ensuring lasting beauty and durability.",
+        "localContext": "Powell, Ohio, known for its affluent community and well-maintained properties, demands high-quality hardscaping that enhances its aesthetic appeal.",
+        "nearbyAreas": [
+          "Dublin",
+          "Columbus",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC extends its hardscaping expertise to Delaware, OH, offering tailored solutions to meet the unique needs of its residents. Delaware's mix of historic homes and newer developments provides a diverse landscape for creative hardscaping designs.\n\nWhether you're looking to restore a classic patio or create a modern outdoor living area, our skilled team can bring your vision to life. We use premium materials and proven techniques to ensure your hardscaping project stands the test of time, even in the face of Ohio's challenging weather conditions.",
+        "localContext": "Delaware, Ohio, with its blend of historic charm and modern growth, benefits from hardscaping that respects its heritage while embracing contemporary design trends.",
+        "nearbyAreas": [
+          "Powell",
+          "Sunbury",
+          "Lewis Center"
+        ]
+      },
+      {
+        "city": "Lewis Center",
+        "slug": "lewis-center-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is dedicated to providing exceptional hardscaping services in Lewis Center, OH. Known for its growing residential communities and family-friendly atmosphere, Lewis Center is the perfect place to enhance your outdoor living space with beautiful and functional hardscapes.\n\nWe offer a wide range of services, including patio construction, walkway installation, retaining wall design, and more. Our experienced team uses high-quality materials and proven techniques to ensure your hardscaping project is both beautiful and durable, withstanding the rigors of Ohio's climate.",
+        "localContext": "Lewis Center, Ohio, a rapidly growing community with a focus on family living, values hardscaping that enhances outdoor recreation and entertainment spaces.",
+        "nearbyAreas": [
+          "Westerville",
+          "Powell",
+          "Galena"
+        ]
+      },
+      {
+        "city": "Galena",
+        "slug": "galena-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is pleased to offer its expert hardscaping services to the residents of Galena, OH. With its charming small-town atmosphere and beautiful natural surroundings, Galena provides a unique setting for creating stunning outdoor spaces.\n\nFrom rustic patios and winding pathways to elegant retaining walls and outdoor fire pits, we can design and install hardscapes that perfectly complement your home and lifestyle. We understand the importance of using durable materials that can withstand Ohio's weather, ensuring your hardscaping project will last for years to come.",
+        "localContext": "Galena, Ohio, a picturesque village with a strong sense of community, benefits from hardscaping that blends seamlessly with its natural surroundings and enhances its small-town charm.",
+        "nearbyAreas": [
+          "Westerville",
+          "Sunbury",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Worthington",
+        "slug": "worthington-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is proud to serve the Worthington, OH community with top-quality hardscaping services. Worthington's historic charm and beautiful homes deserve hardscaping that complements their architectural style and enhances their curb appeal.\n\nOur team specializes in creating custom patios, walkways, and retaining walls that blend seamlessly with Worthington's unique character. We use durable materials and proven techniques to ensure your hardscaping project will withstand the test of time, even with Ohio's challenging weather conditions.",
+        "localContext": "Worthington, Ohio, known for its historic district and well-preserved architecture, values hardscaping that respects its heritage and enhances its overall aesthetic appeal.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Upper Arlington",
+        "slug": "upper-arlington-oh",
+        "state": "OH",
+        "content": "Ohio Landscaping & Lawn Care LLC is committed to bringing exceptional hardscaping solutions to Upper Arlington, OH. With its stately homes and meticulously manicured lawns, Upper Arlington demands the highest standards of quality and design.\n\nWe offer a comprehensive range of hardscaping services, from patio and walkway construction to retaining wall installation and outdoor kitchen design. Our experienced team uses premium materials and meticulous craftsmanship to create outdoor spaces that are both beautiful and functional, enhancing the value and enjoyment of your home.",
+        "localContext": "Upper Arlington, Ohio, an affluent suburb known for its elegant homes and well-maintained landscapes, expects hardscaping that reflects its high standards of quality and design.",
+        "nearbyAreas": [
+          "Columbus",
+          "Grandview Heights",
+          "Hilliard"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Ohio Landscaping & Lawn Care did an amazing job on our new patio! They helped us design a space that perfectly fits our needs and the quality of the work is outstanding. The crew was professional, courteous, and cleaned up everything meticulously. Highly recommended!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We hired Ohio Landscaping & Lawn Care to build a retaining wall in our backyard to address some serious erosion issues. They did a great job and the wall looks fantastic. There was a minor delay due to weather, but they communicated well and kept us informed throughout the process.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Driveway Repair",
+        "text": "Our driveway was cracked and crumbling after years of Columbus winters. Ohio Landscaping & Lawn Care came out and did a fantastic job patching and sealing it. It looks almost new! Great service and fair pricing.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "John L.",
+        "rating": 5,
+        "service": "Walkway Installation",
+        "text": "We needed a walkway installed from our driveway to the front porch and Ohio Landscaping & Lawn Care provided a fantastic design and installation. The crew was very professional and efficient. We are thrilled with the results.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Outdoor Kitchen",
+        "text": "Ohio Landscaping & Lawn Care built our dream outdoor kitchen! From the initial design to the final installation, they were a pleasure to work with. The quality of the materials and workmanship is exceptional. We highly recommend them!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 4,
+        "service": "Fire Pit Installation",
+        "text": "We had Ohio Landscaping & Lawn Care install a gas fire pit in our backyard. They did a great job and we've been enjoying it ever since! There was a slight issue with the gas line connection, but they quickly resolved it. Overall, we are very satisfied.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Ohio Landscaping & Lawn Care | Columbus OH",
+        "description": "Columbus hardscaping experts. Patios, retaining walls, driveways & more. Serving Dublin, Westerville, Hilliard, Grove City."
+      },
+      "about": {
+        "title": "About Us | Ohio Landscaping & Lawn Care",
+        "description": "Learn about Ohio Landscaping & Lawn Care's commitment to quality hardscaping in the Columbus area."
+      },
+      "services": {
+        "title": "Hardscaping Services | Columbus OH",
+        "description": "Expert hardscaping services in Columbus. Patios, retaining walls, driveways, walkways, outdoor kitchens & fire pits."
+      },
+      "contact": {
+        "title": "Contact Us | Ohio Landscaping & Lawn Care",
+        "description": "Contact Ohio Landscaping & Lawn Care for a free consultation on your next hardscaping project in Columbus."
+      },
+      "reviews": {
+        "title": "Reviews | Ohio Landscaping & Lawn Care",
+        "description": "See what our customers are saying about Ohio Landscaping & Lawn Care's hardscaping services in Columbus."
+      },
+      "service-areas": {
+        "title": "Service Areas | Ohio Landscaping & Lawn Care",
+        "description": "Ohio Landscaping & Lawn Care provides expert hardscaping services throughout the Columbus metro area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patios": "/images/service-patios.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "driveways": "/images/service-driveways.webp",
+      "walkways": "/images/service-walkways.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "fire-pits": "/images/service-fire-pits.webp"
+    },
+    "servicesResponsive": {
+      "patios": {
+        "src": "/images/service-patios.webp",
+        "srcset": "/images/service-patios-400w.webp 400w, /images/service-patios-800w.webp 800w, /images/service-patios-1200w.webp 1200w, /images/service-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveways": {
+        "src": "/images/service-driveways.webp",
+        "srcset": "/images/service-driveways-400w.webp 400w, /images/service-driveways-800w.webp 800w, /images/service-driveways-1200w.webp 1200w, /images/service-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "walkways": {
+        "src": "/images/service-walkways.webp",
+        "srcset": "/images/service-walkways-400w.webp 400w, /images/service-walkways-800w.webp 800w, /images/service-walkways-1200w.webp 1200w, /images/service-walkways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fire-pits": {
+        "src": "/images/service-fire-pits.webp",
+        "srcset": "/images/service-fire-pits-400w.webp 400w, /images/service-fire-pits-800w.webp 800w, /images/service-fire-pits-1200w.webp 1200w, /images/service-fire-pits.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
